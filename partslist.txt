@@ -1,0 +1,14 @@
+
+
+2020 square extrusion 20mm 
+2040 vslot extrusion  
+
+rollers
+
+metric screws
+
+timing belt       -  2mm Pitch 6mm Width Rubber
+belt pully        - 
+
+stepper motor     - nema 17 
+
